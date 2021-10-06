@@ -1,0 +1,16 @@
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+}
+
+header ul li.menu {
+  margin-left: 16px;
+}
